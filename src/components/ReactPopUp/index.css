@@ -1,0 +1,79 @@
+.add-new-task-button {
+  background: #f26724;
+  height: 30px;
+  width: 15vw;
+  border: 0px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.close-button {
+  box-shadow: 0px 0px 1px 0px;
+  margin: 0px;
+  padding: 10px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.close-trigger-button {
+  background: #f26724;
+  border-radius: 5px;
+  border: 0px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  width: 10vw;
+  align-self: flex-end;
+}
+.verticalLine {
+  height: 300px;
+  border-right: 1px solid;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.popup-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.popup-cancel-button {
+  background: transparent;
+  border: 0px;
+  margin-right: 10px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+.label-elements {
+  margin-left: 10px;
+}
+.popup-inputs {
+  background: #e4ecf7;
+  outline: none;
+  border: 0px;
+  border-radius: 3px;
+}
+.list-of-names {
+  background: #cceaf5;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+}
+.list-of-names2 {
+  background: #f7cce6;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.list-of-names3 {
+  background: #e3d5f5;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+}
+.popup-inputs2 {
+  border: 2px solid #52aad8;
+  border-radius: 5px;
+  color: #52aad8;
+}

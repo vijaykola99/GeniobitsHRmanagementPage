@@ -1,0 +1,30 @@
+.navbar-background {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 20px;
+  background: #ffffff;
+}
+.logo {
+  height: 40px;
+  margin-right: 20px;
+}
+.options {
+  display: flex;
+  flex-direction: row;
+}
+.icons {
+  background-color: skyblue;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+.my-apps-paragraphs {
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.tasks-paragraph {
+  color: green;
+}

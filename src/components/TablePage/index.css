@@ -1,0 +1,66 @@
+.table-page-background {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px;
+}
+
+.table {
+  width: 70vw;
+  padding: 20px;
+}
+.status-color {
+  background: red;
+  border-radius: 5px;
+  height: 30px;
+}
+.as-name {
+  background: #712ecf;
+  border-radius: 5px;
+}
+.red-circle {
+  color: #f9202c;
+  background-color: #f9202c;
+  border-radius: 8px;
+}
+.yellow-circle {
+  color: #fbad14;
+  background-color: #fbad14;
+  border-radius: 8px;
+}
+.green-circle {
+  color: #53c41a;
+  background-color: #53c41a;
+  border-radius: 8px;
+}
+.search-input {
+  width: 65vw;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid #cecece;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.search {
+  border: 0px;
+  width: 50vw;
+  outline: none;
+}
+.left-right-arrows {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.search-paragraph {
+  font-size: 12px;
+  text-align: center;
+}
+.task-list-heading {
+  font-family: 'Roboto';
+  color: #595858;
+  font-weight: 700;
+}
